@@ -1,0 +1,39 @@
+1.	Die Wirtschaft
+2.	Wohlstand schaffen
+3.	Die Armut bekämpfen  die Armutsbekämpfung
+4.	Die Bevölkerung ernähren  die Ernährung
+5.	Die Umwelt  umweltfreundlich
+6.	Eine lebensfähige, lebenswerte Welt
+7.	Für den kommenden Generationen
+8.	Der Klimawandel
+9.	Die Temperaturen steigen  die Steigerung der T°
+10.	Drohen + dat
+11.	die Verknappung der Ressourcen
+12.	die Ressourcen dauerhaft nutzen  die dauerhafte Nutzung der Ressourcen
+13.	die Natur soll erhalten bleiben
+14.	der Erhalt der Artenviefalt
+15.	die Gesundheit gefährden ≠ schützen
+16.	Schadstoffe in die Luft, ins Wasser freisetzen
+17.	eine gerechte Welt schaffen
+18.	einen Ausgleich zwischen arm und reich schaffen
+19.	zur Folge haben, dass
+
+1.	L’économie
+2.	Créer de la prospérité
+3.	Combattre la pauvreté
+4.	Nourrir la population
+5.	L’environnement  écologique
+6.	Un monde viable, vivable
+7.	Pour les générations à venir
+8.	Le changement climatique
+9.	Les températures augmentent  l’augmentation des températures
+10.	Menacer
+11.	L’épuisement des ressources
+12.	Utiliser les ressources de manière durable
+13.	La nature soit être préservée
+14.	La préservation de la biodiversité
+15.	Mettre en danger ≠ protéger la santé
+16.	Émettre libérer des substances toxiques dans l’air, dans l’eau
+17.	Construire un monde équitable
+18.	Créer un équilibre entre riches et pauvres
+19.	Avoir pour conséquence
